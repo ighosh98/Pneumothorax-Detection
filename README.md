@@ -50,4 +50,6 @@ Pneumothorax detection with CheXNet:
     13. Pleural Thickening
     14. Hernia
 * CheXNet detection accuracy = 0.8887 (2017) 
+* Possible use case for NASNet. Currently inserted Keras' default NASNET into the model. Have a look at the architectures mentioned here: https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6#df67
+* Will look into Reinforcement Learning for an effective implementation of ENAS.
 
