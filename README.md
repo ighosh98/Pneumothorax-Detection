@@ -53,3 +53,9 @@ Pneumothorax detection with CheXNet:
 * Possible use case for NASNet. Currently inserted Keras' default NASNET into the model. Have a look at the architectures mentioned here: https://towardsdatascience.com/illustrated-efficient-neural-architecture-search-5f7387f9fb6#df67
 * Will look into Reinforcement Learning for an effective implementation of ENAS.
 
+
+UNet Tutorials
+- https://www.youtube.com/watch?v=E1Y8HZcpm-I
+- https://www.youtube.com/watch?v=M3EZS__Z_XE
+- https://www.youtube.com/watch?v=nG3tT31nPmQ
+- https://www.youtube.com/watch?v=cm6GmGkbhBo
